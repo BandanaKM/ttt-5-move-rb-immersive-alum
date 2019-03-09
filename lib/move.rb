@@ -20,5 +20,5 @@ end
 
 
 the display board method
-  takes in a board argument
-  
+  takes in a board array
+  puts each element of the board, with
