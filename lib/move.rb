@@ -21,6 +21,6 @@ end
 
 the display board method
   takes in a board array
-  creates a board displaying each index value of the array 
+  creates a board displaying each index value of the array
 
-   
+ 
