@@ -23,7 +23,6 @@ the display board method
   takes in a board array
   creates a board displaying each index value of the array
 
-
 the input to index method
   takes input
   ensures that it is an integer
@@ -34,4 +33,5 @@ the update_array_at_with method
   updates the array index at a certain value
 
 the move method
-  takes in a board, index, and characted
+  takes in a board, index, and character
+  updates the board array, with the specific index, setting it to the char
