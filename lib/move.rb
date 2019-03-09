@@ -23,4 +23,7 @@ the display board method
   takes in a board array
   creates a board displaying each index value of the array
 
- 
+
+the input to index method
+  takes input
+  ensures that it is an integer 
