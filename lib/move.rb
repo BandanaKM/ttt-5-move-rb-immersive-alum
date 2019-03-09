@@ -19,5 +19,6 @@ end
  end
 
 
-# hi
-# therw
+the display board method
+  takes in a board argument
+  
