@@ -27,3 +27,11 @@ the display board method
 the input to index method
   takes input
   ensures that it is an integer 
+  subtracts 1 to get the index value 
+
+the update_array_at_with method 
+  takes in a array, index, and c
+
+the update_array_at_with method 
+  takes in a board, index, and characted 
+  
