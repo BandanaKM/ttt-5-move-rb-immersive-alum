@@ -39,6 +39,6 @@ the move method
 the cli
   welcomes users
   tells them to enter a value 1 to 9
-  sets input = the value they enter 
-  sets the index equar to what they enter 
+  sets input = the value they enter
+  sets the index equar to what they enter
   calls the move method, with the board, index, char
