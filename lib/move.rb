@@ -33,5 +33,5 @@ the update_array_at_with method
   takes in a array, index, and value
   updates the array index at a certain value
 
-the update_array_at_with method
+the move method
   takes in a board, index, and characted
