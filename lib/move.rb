@@ -36,7 +36,7 @@ the move method
   takes in a board, index, and character
   updates the board array, with the specific index, setting it to the char
 
-the cli 
-  welcomes users 
-  tells them to enter a value 1 to 9 
+the cli
+  welcomes users
+  tells them to enter a value 1 to 9
   sets input = the value they enter 
