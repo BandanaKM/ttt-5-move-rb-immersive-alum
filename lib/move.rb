@@ -35,5 +35,3 @@ the update_array_at_with method
 the move method
   takes in a board, index, and character
   updates the board array, with the specific index, setting it to the char
-
-
